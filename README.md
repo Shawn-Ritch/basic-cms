@@ -4,7 +4,7 @@ A very basic content management system you can fully customize to develop large 
 This runs on PHP version: 7.2.18 and utilizes - HTML5 CSS3 & JavaScript
 
 After you have downloaded/cloned this and installed it on your localhost...
-1) Go to the file in the root\page\images\Screenshot_2019-09-04 localhost 127 0 0 1 wdrzcms pages phpMyAdmin 4 8 5.png 
+1) Go to the file in the root\page\images\Screenshot...png 
 2) From that screenshot, create the database precisely as you see it
 3) Go to the wdrzcms.sql file and copy the sql code and run it in your new database
     (This will create the home page)
