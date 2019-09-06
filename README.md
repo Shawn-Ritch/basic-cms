@@ -13,6 +13,8 @@ EnjoyDevelopingIt ($further); {
   Coming Soon(Youtube_Video);
 } else (Until_Then) {
   Your on your own;
+} elseif (Have_Question(s)) {
+    contact-us@webdeveloprz.com;
 }
 exit;
 ?>
