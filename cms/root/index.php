@@ -1,6 +1,5 @@
 <?php
 session_start();
-$domain = 'a-cms';
 require('assets/db_conn.php');
 
 if (!$_GET['pid']) {
@@ -15,25 +14,13 @@ while ($row = mysqli_fetch_array($result)) {
     $body = $row["pagebody"];
 }
 
-//--------
-// $sql = "SELECT id, linklabel FROM pages WHERE showing='1' ORDER BY id ASC";
-// $query = mysqli_query($dbConn, $sql) or die (mysqli_error());
-//
-// $menuDisplay = '';
-// while ($row = mysqli_fetch_array($query)) {
-//     $pid = $row["id"];
-//     $linklabel = $row["linklabel"];
-//
-// 	$menuDisplay .= '<a href="index.php?pid=' . $pid . '">' . $linklabel . '</a><br />';
-//---------
-
 $menu = '';
 $sql = "SELECT id, linklabel FROM pages WHERE id='$pageid' ORDER BY id ASC";
 $result = mysqli_query($dbConn, $sql);
 while ($row = mysqli_fetch_array($result)) {
     $pid = $row["id"];
     $linklabel = $row["linklabel"];
-		$menu .= '<a href="index.php?pid=' . $pid . '">' . $linklabel . '</a><br />';
+		$menu .= '<a href="index.php?pid=' . $pid . '">' . $linklabel . '</a><br>';
 }
 mysqli_close($dbConn);
 ?>
@@ -41,7 +28,7 @@ mysqli_close($dbConn);
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>WebDevz CMS</title>
+<title>WebDeveloprz Basic CMS</title>
 <?php require('page/style/index.php'); ?>
 <?php require('assets/js/body.js'); ?>
 </head>
