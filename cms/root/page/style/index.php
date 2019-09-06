@@ -22,15 +22,16 @@ body{color:rgb(17,17,17);}
     #ddMenu{display:none; position:absolute; width:15vw; margin:calc(2em - 1px) 0 0; padding:0 1em;
       background-color: rgba(245,245,245,.9);}
 
-    main{width:100vw; height:calc(100vh - 4em); margin:4em 0 0;
+    main{height:calc(100vh - 4em); margin:4em 0 0;
       overflow-x:hidden; overflow-y:scroll; scroll-behavior:inherit;}
+    
     section {width:100%; height:100%;}
 
   /*  Links Hover Focus Active  */
     a,.menu svg{color:rgb(0,115,140); fill:rgb(0,115,140);}
     a:hover,a:active,.menu svg:hover{color:rgb(0,150,40); fill:rgb(0,150,40); cursor:pointer;}
   /*  100 Viewport Width  */
-  header,footer{
+  main,header,footer{
     width:100vw;}
   /*  Background Colors  */
     body{background-color:rgb(245,245,245);}
@@ -41,7 +42,7 @@ body{color:rgb(17,17,17);}
       border-bottom:1px solid rgba(17,17,17,.1);}
 
 /* RESPONIVE STYLING | MEDIA QUERIES */
-@media screen and (max-width: 8000px)              /*4320p = 7680 x 4320 - is known as 8K*/      {
+@media screen and (max-width: 8000px)            /*4320p = 7680 x 4320 - is known as 8K*/      {
       body {font-size: 3.5em;}
   }   @media screen and (max-width: 3840px)   /*2160p = 3840 x 2160 - 4K, UHD or Ultra HD*/    {
       body {font-size: 3em;}
