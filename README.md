@@ -1,5 +1,5 @@
 # basic-cms
-A very basic content management system you can fully customize to develop large dynamic &amp; responsive applications.
+A very basic content management system you can fully customize to develop large, dynamic, responsive applications.
 
 This runs on PHP version: 7.2.18 and utilizes - HTML5 CSS3 & JavaScript
 
