@@ -40,8 +40,6 @@ while ($row = mysqli_fetch_array($result)) {
 A Product Of Shawn Ritch @WebDeveloprz
 And Subject To MIT License Attribution
 https://github.com/Shawn-Ritch/basic-cms
-Need Help Developing This Further?
-Email: WebMaster@WebDeveloprz.com
 -->
 <?php
 require_once('inc/functions.php');
