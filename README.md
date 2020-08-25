@@ -12,6 +12,10 @@ Benefits for using a CMS like this:
 8) Almost completely commented out so you can see how it all works.
 9) Has some security in place to get you started.
 
+10) AND, as a bonus, it is dynamic page template ready!
+
+You can't ask for more for free ;)
+
 I hope you use and enjoy working with this. It has taken me quite some time to develop this in such a comprehensive way so most developers would be able to use it with ease. 
 
 You can view the working product here: https://cms.webdeveloprz.com/
