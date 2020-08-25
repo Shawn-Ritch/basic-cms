@@ -3,7 +3,7 @@ declare(strict_types = 1);
 ob_start();
 // Sets The Protocol & Domain = Root URL
 $protocol = "http://";
-$domain = "localhost/dev/cms";
+$domain = "localhost/basic-cms";
 $rootUrl = $protocol . $domain;
 // Database Connection
 $server = "127.0.0.1";
