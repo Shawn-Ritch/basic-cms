@@ -21,7 +21,7 @@ require_once('inc/header.php');
           This Content Management System Is Meant For Educational Purposes.
           If You Use This Live Online With A Hosting Provider&comma; You Do So At Your Own Risk&period;
           If You Use This System For Anything Other Than Its Intended Purpose&comma;
-          &apos;I&apos; &lpar;Shawn Ritch&rpar; Or &apos;We&apos; &lpar;WebDevelprz&rpar; Cannot Be Held Liable For Any Damages&comma;
+          &apos;I&apos; &lpar;Shawn Ritch&rpar; Or &apos;We&apos; &lpar;WebDeveloprz&rpar; Cannot Be Held Liable For Any Damages&comma;
           Or Loss Of Any Kind&period;
         </p>
       </div>
