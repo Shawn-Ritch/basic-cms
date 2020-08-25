@@ -4,6 +4,6 @@
     </div>
     <div class="c50"></div>
       <h6>Developed By&colon; <br>
-        <a target="_blank" href="https://shawn-ritch.github.io/shawnritch.github.io/">Shawn Ritch</a>
+        <a target="_blank" href="https://shawn-ritch.github.io/portfolio/">Shawn Ritch</a>
       </h6>
   </footer>
