@@ -3,7 +3,7 @@ Finally! I have re-developed this basic CMS to be WAY more developer friendly an
 
 Benefits for using a CMS like this:
 1) Desined and developed specifically for developers / programmers.
-2) Super light weight, the entire system is now only 37kb!
+2) Super light weight, the entire system is less than 50kb!
 3) Is SEO friendly with clean URLs and some meta tags already incuded.
 4) Loads within 0.3 second - tested @ https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fcms.webdeveloprz.com%2F&tab=desktop
 5) Includes a simple front-end, HTML & CSS I have given you to start with.
