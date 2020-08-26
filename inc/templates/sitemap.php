@@ -7,6 +7,7 @@ require_once('inc/header.php');
       <h1 class="ctxt">CMS Sitemap</h1>
       <div class="c50m cnt ctxt">
       <?php echo $siteMap; ?>
+      
       </div>
     </section>
   </main>
