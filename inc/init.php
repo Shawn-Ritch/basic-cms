@@ -33,7 +33,7 @@ $siteMap = '';
 $sql = "SELECT link, linklabel FROM pages WHERE view='1' ORDER BY id ASC";
 $result = mysqli_query($conn, $sql);
 while ($row = mysqli_fetch_array($result)) {
-  $siteMap .= '<a href="'.$rootUrl.''.$row['link'].'">'.$row['linklabel'].'</a><br>';
+  $siteMap .= '<a href="'.$rootUrl . $row['link'].'">'.$row['linklabel'].'</a><br>';
 }
 ?>
 <!--   Basic CMS Version1.0.1
