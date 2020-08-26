@@ -1,6 +1,3 @@
--- I will be adding installation instructions for this soon
--- Until then, here is the SQL to create the table within the database
-
 CREATE TABLE `pages` (
   `id` int(11) NOT NULL,
   `link` varchar(255) NOT NULL,
