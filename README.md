@@ -1,7 +1,7 @@
 # basic-cms Version1.0.1
 Finally! I have re-developed this basic CMS to be WAY more developer friendly and modifiable.
 
-Benefits for using this CMS:
+Benefits of using this CMS:
 1) Desined and developed specifically for developers / programmers.
 2) Super light weight, the entire system is less than 50kb!
 3) Is SEO friendly with clean URLs and some meta tags already incuded.
