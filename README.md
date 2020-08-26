@@ -1,7 +1,7 @@
 # basic-cms Version1.0.1
 Finally! I have re-developed this basic CMS to be WAY more developer friendly and modifiable.
 
-Benefits for using a CMS like this:
+Benefits for using this CMS:
 1) Desined and developed specifically for developers / programmers.
 2) Super light weight, the entire system is less than 50kb!
 3) Is SEO friendly with clean URLs and some meta tags already incuded.
@@ -12,13 +12,13 @@ Benefits for using a CMS like this:
 8) Almost completely commented out so you can see how it all works.
 9) Has some security in place to get you started.
 
-10) AND, as a bonus, it is dynamic page template ready!
+10) AND, AS A BONUS, it is dynamic page template ready!
 
 You can't ask for more for free ;)
 
 I hope you use and enjoy working with this. It has taken me quite some time to develop this in such a comprehensive way so most developers would be able to use it with ease. 
 
-You can view the working product here: https://cms.webdeveloprz.com/
+You can view a clone of this product here: https://cms.webdeveloprz.com/
 
 My hope is that the good people in the development community will help make it even better.
 Please feel free to add / request changes to inprove this for the masses ;)
