@@ -1,5 +1,3 @@
-<!-- You Can Set @Imports Or Links to Fonts, Bootstrap, JQuery ETC. Here -->
-<!-- Example: <link rel="stylesheet" href="set/path/here"> -->
 <style>
 /* @@@ Browser Resets And Overrides @@@ */
   * {  margin:0; padding:0; box-sizing:border-box; list-style:none; text-decoration:none;  }
