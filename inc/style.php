@@ -51,8 +51,10 @@
   } */
 
 /* @@@ Responsive CSS | Media Queries @@@ */
-  @media screen and (min-width: 720px)      /*HD Ready +*/     {
-    body{font-size:1.8em;}  
+  @media screen and (min-width: 1281px)      /*Full HD +*/     {
+    body{font-size:1.8em;}
+  } @media screen and (max-width: 1280px)   /* HD Ready */     {
+    body{font-size:1.8em;}  .c50m {width: 75%;}
   } @media screen and (max-width: 719px)   /*Average Phone*/   {
     body{font-size:1.6em;} .c50m {width: 100%;}
   } @media screen and (max-width: 479px)   /*Small screens*/   {
