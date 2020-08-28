@@ -11,7 +11,7 @@ CREATE TABLE `pages` (
 
 INSERT INTO `pages` (`id`, `link`, `linklabel`, `view`, `template`, `robots`, `meta_title`, `meta_description`) VALUES
 (1, '/', 'Home', '1', 'home', 'noindex,nofollow', 'CMS Home Page', 'A Basic CMS For Web Developers To Expand Their Knowledge and Understanding Of Full-stack / Back-end Programming'),
-(2, '/about', 'About', '1', 'about', 'noindex,nofollow', 'About This CMS', 'This CMS Is For Educational Purposes And Is Free To Use & Expand Upon With An MIT License Attribution.'),
+(2, '/about', 'About', '1', 'about', 'noindex,nofollow', 'About This CMS', 'This CMS(Content Management System) Is A Fully Dynamic, Database Driven, One Page Runs All System.'),
 (3, '/contact', 'Contact', '1', 'contact', 'noindex,nofollow', 'Contact Me', 'Contact Me'),
 (4, '/404', '404', '1', '404', 'noindex,nofollow', '404 Error | Page Not Found', '404 Error | Page Not Found'),
 (5, '/sitemap.html', 'Sitemap', '0', 'sitemap', 'noindex,nofollow', 'Sitemap', 'Sitemap');
