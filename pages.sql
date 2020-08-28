@@ -12,7 +12,7 @@ CREATE TABLE `pages` (
 INSERT INTO `pages` (`id`, `link`, `linklabel`, `view`, `template`, `robots`, `meta_title`, `meta_description`) VALUES
 (1, '/', 'Home', '1', 'home', 'noindex,nofollow', 'CMS Home Page', 'A Basic CMS For Web Developers To Expand Their Knowledge and Understanding Of Full-stack / Back-end Programming'),
 (2, '/about', 'About', '1', 'about', 'noindex,nofollow', 'About This CMS', 'This CMS(Content Management System) Is A Fully Dynamic, Database Driven, One Page Runs All System.'),
-(3, '/contact', 'Contact', '1', 'contact', 'noindex,nofollow', 'Contact Me', 'Contact Me'),
+(3, '/contact', 'Contact', '1', 'contact', 'noindex,nofollow', 'Contact Me', 'Send Me An Email | I'm Happy To Help You Develop Your Projects | Shawn Ritch'),
 (4, '/404', '404', '1', '404', 'noindex,nofollow', '404 Error | Page Not Found', '404 Error | Page Not Found'),
 (5, '/sitemap.html', 'Sitemap', '0', 'sitemap', 'noindex,nofollow', 'Sitemap', 'Sitemap');
 
