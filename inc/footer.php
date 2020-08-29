@@ -4,7 +4,7 @@
     </div>
     <div class="c50">
       <h6>Developed By&colon; <br>
-        <a target="_blank" href="https://shawn-ritch.github.io/portfolio/">Shawn Ritch</a>
+        <a target="_blank" rel="noreferrer" href="https://shawn-ritch.github.io/portfolio/">Shawn Ritch</a>
       </h6>
     </div>
   </footer>
