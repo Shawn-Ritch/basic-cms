@@ -3,7 +3,7 @@ require_once('inc/init.php');
 require_once('inc/header.php');
 ?>
   <main>
-    <section class="hero ctxt">
+    <section class="hero">
       <div class="c50m mt10 cnt">
         <h1 class="ctxt">Basic CMS</h1>
         <p>
