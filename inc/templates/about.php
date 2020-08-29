@@ -34,7 +34,7 @@ require_once('inc/header.php');
           If You Use This System For Anything Other Than Its Intended Purpose&comma;
           &apos;I&apos; &lpar;Shawn Ritch&rpar; Or &apos;We&apos; &lpar;WebDeveloprz&rpar; Cannot Be Held Liable For Any Damages&comma;
           Or Loss Of Any Kind&period; See More At 
-          <a target="_blank" href="https://github.com/Shawn-Ritch/basic-cms">https://github.com/Shawn-Ritch/basic-cms</a>
+          <a target="_blank" rel="noreferrer" href="https://github.com/Shawn-Ritch/basic-cms">https://github.com/Shawn-Ritch/basic-cms</a>
         </p>
       </div>
     </section>
