@@ -20,8 +20,8 @@
 /* @@@ Template Styles @@@ */
   html { color: rgb(7,7,7); }  p { padding: 0 1em 1.5em; }
   body, header, main, section, footer, h1, h2, h6, img, .col { width:100%; }
-  a { color: rgb(20,120,210); }  a:hover, .active { color: rgb(5,85,160); }
-  .active { box-shadow: 0px 0px 0px 1px rgba(5,85,160,.15) }
+  a { color: rgb(0,80,150); }  a:hover, .active { color: rgb(20,95,0); }
+  .active { box-shadow: 0px 0px 0px 1px rgb(20,95,0,.15) }
   body { font-family: sans-serif; overflow-x:hidden; }
   main { min-height: calc(100vh - 4em); }
   section { position: relative; padding: 1em 1em 0; }
@@ -38,10 +38,10 @@
   /* Condensed Styling */
   a, .active {
     transition: 200ms ease;}
-  html, .main_nav li a {
-    background-color: rgb(235,235,235);}
+  body, .main_nav li a {
+    background-color: rgb(245,245,245);}
   header, footer {
-    background-color: rgb(225,225,225); }
+    background-color: rgb(240,240,240); }
 
 /* @@@ @Supports For Flexbox / Grid etc. @@@ */
   /* @supports (  ) {
