@@ -4,20 +4,25 @@ require_once('inc/header.php');
 ?>
   <main>
     <section class="hero ctxt">
-      <h1 class="mt10">CMS Home Page</h1>
-      <div class="c50m cnt">
+      <div class="c50m mt10 cnt">
+        <h1 class="ctxt">Basic CMS</h1>
         <p>
-          I would like to thank you for cloning &sol; downloading this CMS from my repository&semi; 
-          and&comma; congratulate you on installing it properly&period;
-          You are well on your way to becoming&comma; if your not already&comma; a 
-          full&hyphen;stack &sol; back&hyphen;end web developer&period;
+          This CMS&lpar;Content Management System&rpar; is intended for educational purposes&period; 
+          It is my hope that&comma; developers and programmers at all levels find it useful&period;
         </p>
-        <h2>Need Help&quest;</h2>
+        <h2>To Repository Cloners&colon;</h2>
+        <p>
+          Thank you for cloning this CMS from my repository&comma; 
+          and congratulations on installing it properly&period;
+          You are well on you&apos;re way to becoming&comma; if your not already&comma; a 
+          full&hyphen;stack and&sol;or back&hyphen;end web developer&period;
+        </p>
+        <h3>Need Help&quest;</h3>
         <p>
           For more information or help with developing this for your purposes &sol; needs&comma;
-          please feel free to <a href="<?php echo $rootUrl; ?>/contact">contact</a> me&period;
+          please feel free to <a href="<?php echo $rootUrl; ?>/contact">contact me</a>&period;
         </p>
-      </div>
+      </div></div>
     </section>
   </main>
 <?php
