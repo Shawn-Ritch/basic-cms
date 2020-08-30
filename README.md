@@ -11,8 +11,10 @@ Benefits of using this CMS:
 7) Easy to navigate files and folders for modification.
 8) Almost completely commented out so you can see how it all works.
 9) Has some security in place to get you started.
-
 10) AND, AS A BONUS, it is dynamic page template ready!
+
+Check out the installation video...
+https://youtu.be/gZDmi1FRKwY
 
 You can't ask for more for free ;)
 
