@@ -25,7 +25,7 @@ require_once('inc/header.php');
           &#9702; Video&comma; Photo&comma; And Many Other Types Of Portfolios Or Applications
         </p>
         <p>
-        Need Help With A Project&comma; <a href="<?php echo $rootUrl; ?>/contact">Contact</a> Me&period;
+          Need Help With A Project&comma; <a href="<?php echo $rootUrl; ?>/contact">Contact</a> Me&period;
         </p>
         <h2>Notice&colon;</h2>
         <p>
