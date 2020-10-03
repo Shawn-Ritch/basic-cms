@@ -12,9 +12,9 @@ require_once('inc/header.php');
         </p>
         <h2>Please Note&colon;</h2>
         <p>
-            I&apos;m Very Happy To Help You With Consultations &sol; 
-            Projects&comma; But&comma; Please Keep In Mind&comma; I&apos;m Not Rich 
-            And Can&apos;t Give Away Too Much Time For Free&period;
+          I&apos;m Very Happy To Help You With Consultations &sol; 
+          Projects&comma; But&comma; Please Keep In Mind&comma; I&apos;m Not Rich 
+          And Can&apos;t Give Away Too Much Time For Free&period;
         </p>
       </div>
     </section>
