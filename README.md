@@ -19,9 +19,9 @@ You can't ask for more for free ;)
 
 I hope you use and enjoy working with this. It has taken me quite some time to develop this in such a comprehensive way so most developers would be able to use it with ease. 
 
-View online, an exact Replica(downloaded clone) of this repository here: https://cms.webdeveloprz.com/
+View online, an exact Replica (downloaded clone) of this repository here: https://cms.webdeveloprz.com/
 
 My hope is that the good people in the development community will help make it even better.
-Please feel free to add / request changes to inprove this for the masses ;)
+Please feel free to add / request changes to improve this for the masses ;)
 
 And always - Enjoy :)
